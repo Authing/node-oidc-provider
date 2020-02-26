@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    "**/*.test*": true,
+    "**/example/**": true
+  }
+}
